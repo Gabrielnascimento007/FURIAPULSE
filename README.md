@@ -28,9 +28,11 @@ O sistema permite:
 FuriaPulseWeb/
 ├── Controllers/
 │   └── FanProfilesController.cs
+
 ├── Models/
 │   ├── FanProfile.cs
 │   └── ErrorViewModels.cs
+
 ├── Views/
 │   ├── FanProfiles/
 │   │   ├── Create.cshtml
@@ -41,6 +43,7 @@ FuriaPulseWeb/
 │       ├── _Layout.cshtml
 │       ├── _ViewImports.cshtml
 │       └── _ViewStart.cshtml
+
 ├── wwwroot/
 │   ├── css/
 │   │   └── site.css
@@ -53,6 +56,7 @@ FuriaPulseWeb/
 │   ├── lib/
 │   ├── uploads/
 │   └── favicon.ico
+
 ├── python/
 │   ├── ocr_validador.py
 │   ├── VerificaSeApoiaFuria.py
