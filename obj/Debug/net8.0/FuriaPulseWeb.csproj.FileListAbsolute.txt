@@ -1,0 +1,96 @@
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.AssemblyInfoInputs.cache
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.AssemblyInfo.cs
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.RazorAssemblyInfo.cache
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.RazorAssemblyInfo.cs
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\appsettings.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.staticwebassets.runtime.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.staticwebassets.endpoints.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.exe
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.deps.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.runtimeconfig.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.dll
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.pdb
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\scopedcss\bundle\FuriaPulseWeb.styles.css
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.FuriaPulseWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.FuriaPulseWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.FuriaPulseWeb.props
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FuriaPulseWeb.props
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FuriaPulseWeb.props
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.dll
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\refint\FuriaPulseWeb.dll
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.pdb
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.genruntimeconfig.cache
+C:\Users\gabriel.barbosa\RocketSeat\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\ref\FuriaPulseWeb.dll
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\appsettings.Development.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\appsettings.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.staticwebassets.endpoints.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.staticwebassets.runtime.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.exe
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.deps.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.dll
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.pdb
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.RazorAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.RazorAssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\scopedcss\bundle\FuriaPulseWeb.styles.css
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.build.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.development.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.FuriaPulseWeb.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.FuriaPulseWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.FuriaPulseWeb.props
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FuriaPulseWeb.props
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FuriaPulseWeb.props
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.dll
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\refint\FuriaPulseWeb.dll
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.pdb
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\ref\FuriaPulseWeb.dll
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\appsettings.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.staticwebassets.runtime.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.staticwebassets.endpoints.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.exe
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.deps.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.runtimeconfig.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.dll
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\bin\Debug\net8.0\FuriaPulseWeb.pdb
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.AssemblyInfoInputs.cache
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.AssemblyInfo.cs
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.csproj.CoreCompileInputs.cache
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.RazorAssemblyInfo.cache
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.RazorAssemblyInfo.cs
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\scopedcss\bundle\FuriaPulseWeb.styles.css
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.FuriaPulseWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.FuriaPulseWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.FuriaPulseWeb.props
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FuriaPulseWeb.props
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FuriaPulseWeb.props
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.dll
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\refint\FuriaPulseWeb.dll
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.pdb
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\FuriaPulseWeb.genruntimeconfig.cache
+C:\Users\User\FuriaPulseWeb\FuriaPulseWeb\obj\Debug\net8.0\ref\FuriaPulseWeb.dll
