@@ -1,0 +1,92 @@
+﻿@model List<FuriaPulseWeb.Models.FanProfile>
+
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-info">@TempData["Msg"]</div>
+}
+
+@{
+    ViewData["Title"] = "Lista de Fãs da FURIA";
+}
+
+<h1 class="mb-4">Lista de Fãs da <span class="text-primary">FURIA</span></h1>
+
+<a href="@Url.Action("Create", "FanProfiles")" class="btn btn-success mb-3">➕ Novo Fã</a>
+
+<div class="table-responsive">
+    <table class="table table-striped table-bordered align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th style="min-width: 200px;">Nome</th>
+                <th style="min-width: 200px;">CPF</th>
+                <th style="min-width: 200px;">Email</th>
+                <th style="min-width: 200px;">Instagram</th>
+                <th style="min-width: 200px;">Twitter</th>
+                <th style="min-width: 200px;">Modalidades</th>
+                <th style="min-width: 200px;">Eventos</th>
+                <th style="min-width: 200px;">Compras</th>
+                <th>Data Cadastro</th>
+                <th>Documento</th>
+                <th>Fã da FURIA?</th>
+                <th>Perfil eSports</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var fan in Model)
+            {
+                <tr>
+                    <td>@fan.Nome</td>
+                    <td>@fan.CPF</td>
+                    <td>@fan.Email</td>
+                    <td>@fan.InstagramUser</td>
+                    <td>@fan.TwitterUser</td>
+                    <td>@fan.Interesses</td>
+                    <td>@fan.Atividades</td>
+                    <td>@fan.ComprasRecentes</td>
+                    <td>@fan.DataCadastro.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(fan.DocumentoNome))
+                        {
+                            <a href="@("/uploads/" + fan.DocumentoNome)" target="_blank" class="btn btn-sm btn-outline-primary">Ver</a>
+                        }
+                    </td>
+                    <td class="text-center">
+                        @if (!string.IsNullOrEmpty(fan.ResultadoValidacaoFuria))
+                        {
+                            if (fan.ResultadoValidacaoFuria == "APOIA")
+                            {
+                                <img src="/img/check.png" alt="Apoia a FURIA" width="20" height="20" />
+                            }
+                            else if (fan.ResultadoValidacaoFuria == "NAO_APOIA")
+                            {
+                                <img src="/img/cross.png" alt="Não apoia a FURIA" width="20" height="20" />
+                            }
+                            else
+                            {
+                                <span class="text-muted">@fan.ResultadoValidacaoFuria</span>
+                            }
+                        }
+                        else
+                        {
+                            <span class="text-secondary">—</span>
+                        }
+                    </td>
+                    <td class="text-center">
+                        @if (fan.PerfilEsportsValido)
+                        {
+                            <img src="/img/check.png" alt="Perfil eSports válido" width="20" height="20" title="@fan.DetalheValidacaoEsports" />
+                        }
+                        else if (!string.IsNullOrEmpty(fan.DetalheValidacaoEsports))
+                        {
+                            <img src="/img/cross.png" alt="Perfil não reconhecido" width="20" height="20" title="@fan.DetalheValidacaoEsports" />
+                        }
+                        else
+                        {
+                            <span class="text-secondary">—</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

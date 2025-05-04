@@ -1,0 +1,101 @@
+﻿@model FuriaPulseWeb.Models.FanProfile
+
+@{
+    ViewData["Title"] = "Novo Fã";
+}
+
+<h2>Cadastro de Fã</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Nome" class="form-label">Nome Completo</label>
+        <input asp-for="Nome" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CPF" class="form-label">CPF</label>
+        <input asp-for="CPF" class="form-control" id="cpfInput" placeholder="000.000.000-00" />
+        <small class="form-text text-muted">Digite apenas os números</small>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="Endereco" class="form-label">Endereço</label>
+        <input asp-for="Endereco" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="InstagramUser" class="form-label">Instagram</label>
+        <input asp-for="InstagramUser" class="form-control" />
+    </div>
+   <div class="mb-3">
+    <label asp-for="InstagramLink" class="form-label">Link do Instagram</label>
+    <input asp-for="InstagramLink" class="form-control" placeholder="https://instagram.com/usuario" />
+</div>
+
+
+    <div class="mb-3">
+        <label asp-for="TwitterUser" class="form-label">Twitter</label>
+        <input asp-for="TwitterUser" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="TwitterLink" class="form-label">Link do Twitter/X</label>
+        <input asp-for="TwitterLink" class="form-control" placeholder="https://twitter.com/seuusuario" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Interesses" class="form-label">Modalidades Favoritas</label>
+        <textarea asp-for="Interesses" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Atividades" class="form-label">Eventos Participados</label>
+        <textarea asp-for="Atividades" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ComprasRecentes" class="form-label">Produtos Comprados</label>
+        <textarea asp-for="ComprasRecentes" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label asp-for="RelacionamentoComEsports" class="form-label">Relacionamento com eSports</label>
+        <textarea asp-for="RelacionamentoComEsports" class="form-control" placeholder="Ex: acompanha campeonatos de CS2, segue FURIA, joga LoL, etc."></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Documento de Identidade (preferencialmente CNH)</label>
+        <input asp-for="DocumentoIdentidade" type="file" class="form-control" />
+    </div>
+
+    <div class="form-check mb-3">
+        <input asp-for="SegueFuria" class="form-check-input" type="checkbox" />
+        <label asp-for="SegueFuria" class="form-check-label">Ja faz parte do time da FURIA nas redes sociais?</label>
+    </div>
+    <div class="mb-3">
+        <label asp-for="LinkPerfilEsports" class="form-label">Link de Perfil em Site de e-Sports</label>
+        <input asp-for="LinkPerfilEsports" class="form-control" placeholder="https://www.faceit.com/en/players/usuario" />
+    </div>
+
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+</form>
+
+
+<!-- Carrega a biblioteca IMask via CDN -->
+<script src="https://unpkg.com/imask"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var cpfInput = document.getElementById('cpfInput');
+        if (cpfInput) {
+            IMask(cpfInput, {
+                mask: '000.000.000-00'
+            });
+        }
+    });
+</script>
+
+
